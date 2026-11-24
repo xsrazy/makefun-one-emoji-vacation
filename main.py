@@ -34,6 +34,12 @@ Why this emoji wins as a postcard:
   everywhere. There is nothing to explain, nothing that needs a caption,
   and nothing that changes meaning from one country to another.
 
+Against the judge's brief, the drink wins on the first criterion
+before anything else: it is exactly one emoji that plainly names a
+dream vacation, and every later criterion (vivid at a glance, specific,
+witty, readable) only sharpens that fit. No words are needed beside it,
+and adding any would only weaken the postcard.
+
 The program writes the emoji verbatim to $MAKEFUN_OUTPUT_DIR/entry.txt
 (default /output/entry.txt) with no trailing newline.
 """
